@@ -1,16 +1,16 @@
-📊 Retail Sales & Profitability Analysis
+## 📊 Retail Sales & Profitability Analysis
 
-🚀 End-to-End Data Analytics Project
-📊 SQL | Tableau | Data Modeling | Business Insights
+## 🚀 End-to-End Data Analytics Project
+## 📊 SQL | Tableau | Data Modeling | Business Insights
 
 This project analyzes retail sales data to understand category performance, profitability, and key business drivers using SQL and Tableau.
 
-📊 Dashboard Preview
+## 📊 Dashboard Preview
 
 ![Dashboard](Screenshot/Dashboard.png)
 
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project focuses on analyzing retail sales data to uncover insights related to revenue, profit, and product category performance.
 
@@ -23,14 +23,14 @@ SQL-based analysis queries
 Interactive Tableau dashboard
 Business insights and recommendations
 
-🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
 SQL → Data modeling, joins, aggregations
 Tableau → Dashboard development & visualization
 CSV → Data source
 GitHub → Project documentation
 
-🧠 Skills Demonstrated
+## 🧠 Skills Demonstrated
 
 Data Cleaning & Preparation
 SQL Querying & Aggregations
@@ -40,7 +40,7 @@ Data Visualization (Tableau)
 Business Insight Generation
 Dashboard Design & Storytelling
 
-📂 Dataset
+## 📂 Dataset
 
 The dataset includes order-level retail data:
 
@@ -53,7 +53,7 @@ Quantity → Units sold
 Total_Sales → Revenue generated
 Total_Profit → Profit earned
 
-❓ Business Questions Answered
+## ❓ Business Questions Answered
 
 Which product categories generate the highest sales?
 Which categories are most profitable?
@@ -61,7 +61,7 @@ Which categories have the highest profit margin?
 How do sales and profit compare across categories?
 Which categories need improvement?
 
-⚙️ Data Modeling
+## ⚙️ Data Modeling
 
 A Star Schema was implemented:
 
@@ -72,7 +72,7 @@ dim_customers
 
 This structure improves query performance and supports scalable analytics.
 
-🔎 Key Insights
+## 🔎 Key Insights
 
 Camping & Hiking drives highest sales and profit
 Cardio Equipment is also a major revenue contributor
@@ -80,14 +80,14 @@ Baseball & Softball shows highest profit margin
 Some categories generate high sales but lower profitability
 Low-performing categories like Books & Baby need improvement
 
-💡 Business Recommendations
+## 💡 Business Recommendations
 
 Focus on high-performing categories for growth
 Optimize pricing and cost strategies for low-margin categories
 Improve performance of underperforming categories
 Use profitability metrics alongside revenue for decision-making
 
-📈 Dashboard Features
+## 📈 Dashboard Features
 
 KPI Cards: Total Sales, Total Profit, Total Orders
 Sales by Category
@@ -96,7 +96,7 @@ Profit Margin Analysis
 Category Filter
 Top N Dynamic Analysis
 
-📁 Repository Structure
+## 📁 Repository Structure
 
 retail-sales-dashboard/
 │
@@ -116,7 +116,7 @@ retail-sales-dashboard/
 │
 └── README.md
 
-🏁 Conclusion
+## 🏁 Conclusion
 
 This project demonstrates a complete data analytics workflow, from data preparation and modeling to visualization and insight generation.
 
