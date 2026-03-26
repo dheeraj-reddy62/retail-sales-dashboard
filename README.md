@@ -7,7 +7,7 @@ This project analyzes retail sales data to understand category performance, prof
 
 📊 Dashboard Preview
 
-
+![Dashboard](Screenshot/Dashboard.png)
 
 
 📌 Project Overview
@@ -22,12 +22,16 @@ Star schema data modeling (Fact & Dimension tables)
 SQL-based analysis queries
 Interactive Tableau dashboard
 Business insights and recommendations
+
 🛠 Tools & Technologies
+
 SQL → Data modeling, joins, aggregations
 Tableau → Dashboard development & visualization
 CSV → Data source
 GitHub → Project documentation
+
 🧠 Skills Demonstrated
+
 Data Cleaning & Preparation
 SQL Querying & Aggregations
 Star Schema Data Modeling
@@ -35,6 +39,7 @@ KPI Development (Sales, Profit, Orders)
 Data Visualization (Tableau)
 Business Insight Generation
 Dashboard Design & Storytelling
+
 📂 Dataset
 
 The dataset includes order-level retail data:
@@ -47,12 +52,15 @@ Category_Name → Product category
 Quantity → Units sold
 Total_Sales → Revenue generated
 Total_Profit → Profit earned
+
 ❓ Business Questions Answered
+
 Which product categories generate the highest sales?
 Which categories are most profitable?
 Which categories have the highest profit margin?
 How do sales and profit compare across categories?
 Which categories need improvement?
+
 ⚙️ Data Modeling
 
 A Star Schema was implemented:
@@ -65,23 +73,29 @@ dim_customers
 This structure improves query performance and supports scalable analytics.
 
 🔎 Key Insights
+
 Camping & Hiking drives highest sales and profit
 Cardio Equipment is also a major revenue contributor
 Baseball & Softball shows highest profit margin
 Some categories generate high sales but lower profitability
 Low-performing categories like Books & Baby need improvement
+
 💡 Business Recommendations
+
 Focus on high-performing categories for growth
 Optimize pricing and cost strategies for low-margin categories
 Improve performance of underperforming categories
 Use profitability metrics alongside revenue for decision-making
+
 📈 Dashboard Features
+
 KPI Cards: Total Sales, Total Profit, Total Orders
 Sales by Category
 Profit by Category
 Profit Margin Analysis
 Category Filter
 Top N Dynamic Analysis
+
 📁 Repository Structure
 
 retail-sales-dashboard/
