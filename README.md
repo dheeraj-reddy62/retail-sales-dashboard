@@ -1,7 +1,7 @@
 ## 📊 Retail Sales & Profitability Analysis
 
 🚀 End-to-End Data Analytics Project
-## 📊 SQL | Tableau | Data Modeling | Business Insights
+📊 SQL | Tableau | Data Modeling | Business Insights
 
 This project analyzes retail sales data to understand category performance, profitability, and key business drivers using SQL and Tableau.
 
